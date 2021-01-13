@@ -1,0 +1,10 @@
+git init
+git remote add https://github.com/fstrz/Test.git
+git config --global user.name = fstrz
+git config --global user.email = mariocbtis116@gmail.com
+git status
+git add *
+git status
+git commit -m "Test"
+git remote add origin https://github.com/fstrz/Test.git
+git push origin master
